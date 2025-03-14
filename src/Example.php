@@ -12,4 +12,5 @@ class Example
     function integerChecker($value): bool {
         return is_integer($value);
     }
+
 }

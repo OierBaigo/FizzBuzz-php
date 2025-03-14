@@ -45,4 +45,5 @@ final class ExampleTest extends TestCase
 
         $this->assertEquals(true, $integerValue);
     }
+
 }
